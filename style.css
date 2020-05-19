@@ -6,7 +6,7 @@
     background-size: cover;
 }
 .header-container{
-    width: 1170;
+    width: 1170px;
 }
 .header-logo{
     float: left;
@@ -17,10 +17,11 @@
 }
 .header-right ul{
     list-style: none;
-    font-size: 20px;
+    font-size: 10px;
 }
 .header-right li{
     float: left;
+    padding-left: 10px;
 }
 
 .top-wrapper{
@@ -31,16 +32,18 @@
     color: white;
     opacity: 0.7;
     margin: 0 auto;
+    display: block;
 }
 .btn{
     padding: 5px 10px;
+    border-radius: 5px;
 }
 .signin{
-    background-color: rgba(0, 176, 83, 0.8);
+    background-color: rgba(0, 176, 83, 0.9);
 }
 .facebook{
-    background-color: rgba(59, 89, 152, 0.8);
+    background-color: rgba(59, 89, 152, 0.9);
 }
 .twitter{
-    background-color: rgba(29, 161, 242, 0.8);
+    background-color: rgba(29, 161, 242, 0.9);
 }
