@@ -6,7 +6,7 @@
     background-size: cover;
 }
 .header-container{
-    width: 1170px;
+    width: 80%;
 }
 .header-logo{
     float: left;
@@ -28,7 +28,7 @@
     background-image: url(https://github.com/srzwkny/html_lesson/blob/master/top.png?raw=true);
 }
 .top-container{
-    width: 1170px;
+    width: 80%;
     color: white;
     opacity: 0.7;
     margin: 0 auto;
