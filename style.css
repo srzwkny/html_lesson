@@ -21,7 +21,7 @@
 }
 .header-right li{
     float: left;
-    padding-left: 10px;
+    padding-left: 5px;
 }
 
 .top-wrapper{
@@ -38,8 +38,10 @@
 .btn{
     padding: 5px 10px;
     border-radius: 5px;
+    color: white;
+    text-decoration: none;
 }
-.signin{
+.signup{
     background-color: rgba(0, 176, 83, 0.9);
 }
 .facebook{
