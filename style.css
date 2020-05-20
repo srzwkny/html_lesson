@@ -11,7 +11,8 @@
 }
 .header-logo{
     float: left;
-    padding: 20px 0;
+    margin: auto 0;
+    height: 20px;
 }
 .header-right{
     float: right;
@@ -19,6 +20,7 @@
 .header-right ul{
     list-style: none;
     font-size: 10px;
+    margin: auto 0;
 }
 .header-right li{
     float: left;
@@ -35,9 +37,10 @@
     margin: 0 auto;
     display: block;
     text-align: center;
+    padding-top: 50px;
 }
 .top-container h1{
-    letter-spacing: 10px;
+    letter-spacing: 8px;
 }
 .btn{
     padding: 5px 10px;
@@ -47,9 +50,11 @@
 }
 .signup{
     background-color: rgba(0, 176, 83, 0.9);
+    margin-top: 20px;
 }
 .facebook{
     background-color: rgba(59, 89, 152, 0.9);
+    margin-right: 10px;
 }
 .twitter{
     background-color: rgba(29, 161, 242, 0.9);
