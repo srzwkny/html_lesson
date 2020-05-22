@@ -36,13 +36,16 @@ body{
 }
 .header-right li{
     float: left;
-    padding-left: 20px;
+    padding: 10px;
     text-decoration: none;
+}
+.header-right a{
+    transition: all 0.5s;
 }
 .header-right a:hover{
     line-height: 65px;
-    padding: 0 25px;
     display: block;
+    background-color: rgba(255, 255, 255, 0.5);
 }
 
 .top-wrapper{
