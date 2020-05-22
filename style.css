@@ -37,15 +37,17 @@ body{
 .header-right li{
     float: left;
     padding: 10px;
-    text-decoration: none;
 }
 .header-right a{
     transition: all 0.5s;
+    text-decoration: none;
 }
 .header-right a:hover{
     line-height: 65px;
     display: block;
     background-color: rgba(255, 255, 255, 0.5);
+    top: 0;
+    
 }
 
 .top-wrapper{
