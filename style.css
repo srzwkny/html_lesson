@@ -37,6 +37,12 @@ body{
 .header-right li{
     float: left;
     padding-left: 20px;
+    text-decoration: none;
+}
+.header-right a:hover{
+    line-height: 65px;
+    padding: 0 25px;
+    display: block;
 }
 
 .top-wrapper{
