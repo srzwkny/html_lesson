@@ -13,6 +13,7 @@
     float: left;
     margin: auto 0;
     height: 20px;
+    width: auto;
 }
 .header-right{
     float: right;
@@ -21,6 +22,7 @@
     list-style: none;
     font-size: 10px;
     margin: auto 0;
+    width: auto;
 }
 .header-right li{
     float: left;
@@ -40,13 +42,17 @@
     padding-top: 50px;
 }
 .top-container h1{
-    letter-spacing: 8px;
+    letter-spacing: 5px;
+}
+.top-container p{
+    font-size: 10px;
 }
 .btn{
     padding: 5px 10px;
     border-radius: 5px;
     color: white;
     text-decoration: none;
+    font-size: 10px;
 }
 .signup{
     background-color: rgba(0, 176, 83, 0.9);
