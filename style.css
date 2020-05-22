@@ -42,12 +42,9 @@ body{
     transition: all 0.5s;
     text-decoration: none;
 }
-.header-right a:hover{
-    line-height: 65px;
+.login a:hover{
     display: block;
-    background-color: rgba(255, 255, 255, 0.5);
-    top: 0;
-    
+    background-color: rgba(255, 255, 255, 0.5);    
 }
 
 .top-wrapper{
