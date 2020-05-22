@@ -36,7 +36,7 @@ body{
 }
 .header-right li{
     float: left;
-    padding: 10px;
+    padding: 0 10px;
 }
 .header-right a{
     transition: all 0.5s;
@@ -47,6 +47,8 @@ body{
     display: block;
     background-color: rgba(255, 255, 255, 0.5);
     color:white;
+    line-height: 65px;
+    padding: 0 10px;
 }
 
 .top-wrapper{
