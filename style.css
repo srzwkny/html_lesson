@@ -43,6 +43,10 @@ body{
     text-decoration: none;
     color: white;
 }
+.login{
+    padding-right: 10px;
+
+}
 .login:hover{
     display: block;
     background-color: rgba(255, 255, 255, 0.5);
