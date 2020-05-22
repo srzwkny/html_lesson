@@ -78,13 +78,13 @@ body{
 }
 .signup{
     background-color: rgba(0, 176, 83, 0.9);
-    margin: 20px 0;
+    margin: 20px 0 10px 0;
 }
 .facebook{
     background-color: rgba(59, 89, 152, 0.9);
-    margin: 20px 10px 20px 0;
+    margin: 10px 10px 10px 0;
 }
 .twitter{
     background-color: rgba(29, 161, 242, 0.9);
-    margin: 20px 0;
+    margin: 10px 0;
 }
